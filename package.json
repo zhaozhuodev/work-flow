@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/zhaozhuodev/work-flow/issues"
   },
-  "homepage": "https://github.com/zhaozhuodev/work-flow#readme"
+  "homepage": "https://github.com/zhaozhuodev/work-flow#readme",
+  "dependencies": {
+    "@geekbang/geek.ui": "^1.0.1",
+    "vue": "^2.5.21"
+  }
 }
