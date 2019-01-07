@@ -1,0 +1,19 @@
+{
+  "name": "work-flow",
+  "version": "1.0.0",
+  "description": "branch:develop 更新",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaozhuodev/work-flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaozhuodev/work-flow/issues"
+  },
+  "homepage": "https://github.com/zhaozhuodev/work-flow#readme"
+}
